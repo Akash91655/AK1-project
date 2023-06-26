@@ -54,17 +54,17 @@
 <hr>
 
  <header>
-    <h1 style="color:rgb(69, 228, 25);">CUTU</h1>
-    <h2>DUDU</h2>
+    <h1 style="color:rgb(69, 228, 25);">KRISHNA</h1>
+    <h2>BALRAM</h2>
 </header>
 <main>
-    <section>Education: Good Chef |  & master in doing arguments with DUDU</section>
-    <article>CUTU is gandu, he always make fun of  dudu.
+    <section>I am a Good Chef </section>
+    <article>FREDY is a male cat.
     </article>
     <aside>BILLBOARD</aside> 
 </main> 
 
-    <footer><h3>Feel Free to CONTACT ;  manasigautam14@gmail.com</h3></footer>
+    <footer><h3>Feel Free to CONTACT ;  uvwxyz23@gmail.com</h3></footer>
     <hr>  
 
      <a href="https://www.instagram.com"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.png" height="100"></a>
@@ -117,13 +117,13 @@
         <tbody>
         <tr>
             <td> AKRU</td>
-            <td>190410102002</td>
-            <td>8521068143</td>
+            <td>1904101020</td>
+            <td>BT19ECEO1O</td>
         </tr>
         <tr>
             <td> MONA</td>
-            <td>190410101036</td>
-            <td>8789100585</td>
+            <td>1904101010</td>
+            <td>BT19CSE017</td>
         </tr>
     
     </tbody>
